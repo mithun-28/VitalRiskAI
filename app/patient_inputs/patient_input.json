@@ -1,0 +1,12 @@
+{
+    "gender": "Male",
+    "age": 0.0,
+    "hypertension": 0,
+    "heart_disease": 0,
+    "ever_married": "Yes",
+    "work_type": "Private",
+    "Residence_type": "Urban",
+    "avg_glucose_level": 0.0,
+    "bmi": 0.0,
+    "smoking_status": "never smoked"
+}

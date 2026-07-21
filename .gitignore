@@ -1,0 +1,10 @@
+venv/
+strokepredictor/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+data/
+*.csv
+models/*.pkl
+patient_inputs/*.json
