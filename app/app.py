@@ -37,7 +37,7 @@ if submit:
         json.dump(input_data,file,indent=4)
 
 
-        response = requests.post("https://vitalriskai.onrender.com",json=input_data)
+        response = requests.post("https://vitalriskai-1.onrender.com",json=input_data)
 
     if response.status_code == 200:
         result = response.json()
